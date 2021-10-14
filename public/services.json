@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "mechanic-hand-checking",
+        "price": 200,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, sit!",
+        "img": "https://image.freepik.com/free-photo/mechanic-hand-checking-fixing-broken-car-car-service-garage_146671-19718.jpg"
+    },
+    {
+        "id": 2,
+        "name": "mechanic-servicing-car",
+        "price": 2000,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, sit!",
+        "img": "https://image.freepik.com/free-photo/mechanic-servicing-car_1170-1689.jpg"
+    },
+    {
+        "id": 3,
+        "name": "auto-mechanic-checking",
+        "price": 100,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, sit!",
+        "img": "https://image.freepik.com/free-photo/auto-mechanic-checking-car_1303-14042.jpg"
+    },
+    {
+        "id": 4,
+        "name": "hand-car-mechanic",
+        "price": 280,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, sit!",
+        "img": "https://image.freepik.com/free-photo/hand-car-mechanic-with-wrench-auto-repair-garage_146671-13561.jpg"
+    },
+    {
+        "id": 5,
+        "name": "car-mechanic-changing",
+        "price": 300,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, sit!",
+        "img": "https://image.freepik.com/free-photo/car-mechanic-changing-wheels-car_1303-26653.jpg"
+    },
+    {
+        "id": 6,
+        "name": "muscular-car-service",
+        "price": 150,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, sit!",
+        "img": "https://image.freepik.com/free-photo/muscular-car-service-worker-repairing-vehicle_146671-19603.jpg"
+    },
+    {
+        "id": 7,
+        "name": "close-up-hands",
+        "price": 260,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, sit!",
+        "img": "https://image.freepik.com/free-photo/close-up-hands-unrecognizable-mechanic-doing-car-service-maintenance_146671-19689.jpg"
+    },
+    {
+        "id": 8,
+        "name": "hand-cleaning-engine",
+        "price": 180,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, sit!",
+        "img": "https://image.freepik.com/free-photo/hand-cleaning-engine_1088-643.jpg"
+    }
+]
