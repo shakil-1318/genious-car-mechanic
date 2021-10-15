@@ -10,12 +10,16 @@ const Experts = () => {
             .then(data => setExperts(data))
     }, [])
     return (
-        <div className='container mt-5'>
-            <h1 className='text-primary'>Our Experts</h1>
-            <div className="row">
-                {
-                    experts.map(expert => <Expert expert={expert}></Expert>)
-                }
+        <div id='experts'>
+            <div className='container mt-5'>
+                <h1 className='text-primary'>Our Experts</h1>
+                <div className="row">
+                    {
+                        experts.map(expert => <Expert
+                            key={expert.id}
+                            expert={expert}></Expert>)
+                    }
+                </div>
             </div>
         </div>
     );
