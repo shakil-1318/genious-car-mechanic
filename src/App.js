@@ -8,6 +8,7 @@ import Header from './Pages/Shared/Header/Header';
 import Login from './Pages/Login/Login/Login';
 import AuthProvider from './context/AuthProvider';
 import PrivateRoute from './Pages/Login/PrivateRouter/PrivateRoute';
+import AddService from './Pages/AddService/AddService';
 
 
 function App() {
@@ -29,6 +30,9 @@ function App() {
             </PrivateRoute>
             <Route path='/login'>
               <Login></Login>
+            </Route>
+            <Route path='/addService'>
+              <AddService></AddService>
             </Route>
             <Route exact path='*'>
               <Notfound></Notfound>

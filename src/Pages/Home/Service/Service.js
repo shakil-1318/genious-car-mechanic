@@ -5,7 +5,7 @@ import './Service.css'
 
 
 const Service = (props) => {
-    const { id, name, description, img, price } = props.service;
+    const { _id, name, description, img, price } = props.service;
 
     return (
         <div className='service pb-3'>
@@ -13,7 +13,7 @@ const Service = (props) => {
             <h4>{name}</h4>
             <h5>Price: {price}</h5>
             <p>{description}</p>
-            <Link to={`/booking/${id}`}>
+            <Link to={`/booking/${_id}`}>
                 <Button variant="primary">Book {name}</Button>
             </Link>
         </div>
